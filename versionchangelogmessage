@@ -1,3 +1,4 @@
 Changelog:
- - Lorem Ipsum
- - Test test test
+ - Fixed a bug where Lucid Lenny could sometimes stay in the office forever
+ - Added an eye icon that indicates where you should keep your mouse when Lucid Lenny attacks
+ - Power now matches UCN more closely, so it's a real concern
