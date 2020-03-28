@@ -1,9 +1,14 @@
-Changelog:
-- Added all the new characters that had icons before
-- Fixed a lot of bugs 
-- Basement halls door no longer draws power, but can malfunction
-- Added some refinements and small tweaks to previous gameplay
-- Made the other new characters available for Golden Shell to add
+Changelog for version "Development Beta 22.1 - Unbalanced / Pending" :
+
+- Fixed "Magician Freddy leaves without the need of the mask"
+- Fixed "Jagger adds 1 extra hour to the night timer + his usual Jagger AI seconds"
+- Fixed "Dark Poundinger Shell on top of node"
+- Fixed "The Fan doesn't cool the temperature down"
+- Fixed "M.S didn't make sense after office change"
+- Fixed "Concept Poundinger Shell not going away after a system change"
+- Fixed "The fan not going away after a system change"
+- Garger gives you 20 seconds to find him instead of 8.6 seconds
+- Xinalia is now less likely to appear
+- Allen has been buffed slightly
 
 NOTE: Please give me suggestions on how I should balance the game with the new characters that I added in the Beta Testing Server.
-Have fun trying out these new challengers!
