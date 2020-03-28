@@ -1,9 +1,9 @@
 Changelog:
-- Fixed a bug where Jack O' Ket's death timer would start when he wasn't visible
-- Moved Emily's tree
-- Fixed a small visual bug that has been in the game forever
-- The maximum value of the noise meter matches the maximum value of the usage meter
- 
- 
- 
- 
+- Added all the new characters that had icons before
+- Fixed a lot of bugs 
+- Basement halls door no longer draws power, but can malfunction
+- Added some refinements and small tweaks to previous gameplay
+- Made the other new characters available for Golden Shell to add
+
+NOTE: Please give me suggestions on how I should balance the game with the new characters that I added in the Beta Testing Server.
+Have fun trying out these new challengers!
