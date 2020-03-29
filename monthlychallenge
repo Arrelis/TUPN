@@ -155,5 +155,5 @@ char150=0
 ID=213205
 Prize=10:questionmarkpowerup
 Bonus=10000
-allowsecrets=1
-disablepowerups=1
+allowsecrets=0
+disablepowerups=0
