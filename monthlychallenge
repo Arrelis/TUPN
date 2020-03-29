@@ -153,3 +153,5 @@ char149=0
 char150=0
 [data]
 ID=213205
+Prize=10:questionmarkpowerup
+Bonus=10000:c
