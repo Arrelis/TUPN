@@ -156,4 +156,4 @@ ID=213205
 Prize=10:questionmarkpowerup
 Bonus=10000
 allowsecrets=1
-allowpowerups=0
+disablepowerups=1
