@@ -1,14 +1,11 @@
-Changelog for version "Development Beta 22.1 - Unbalanced / Pending" :
+Changelog for version "Development Beta 23 / Pending" :
 
-- Fixed "Magician Freddy leaves without the need of the mask"
-- Fixed "Jagger adds 1 extra hour to the night timer + his usual Jagger AI seconds"
-- Fixed "Dark Poundinger Shell on top of node"
-- Fixed "The Fan doesn't cool the temperature down"
-- Fixed "M.S didn't make sense after office change"
-- Fixed "Concept Poundinger Shell not going away after a system change"
-- Fixed "The fan not going away after a system change"
-- Garger gives you 20 seconds to find him instead of 8.6 seconds
-- Xinalia is now less likely to appear
-- Allen has been buffed slightly
-
-NOTE: Please give me suggestions on how I should balance the game with the new characters that I added in the Beta Testing Server.
+- Fixed: "Lucid Lenny is visible with the monitor up"
+- Fixed: "Radeene materializes when you are viewing Arrelis"
+- Fixed: "Radeene materializes when you are clicking on MintEye options"
+- Fixed: "The challenge-specific Golden Shell/Arrelis or Take-Out warnings appeared randomly after enabling a challenge"
+- Fixed: "The Update System has a broken hour tracker"
+- Fixed: "School Boy is at AI 6 in Camera Madness 2"
+- Added Weekly Challenges
+- Added the "Author" variable to any challenge you create after this version which is hopefully going to be used in the future
+- Concern: DJ was experiencing crashes in a recent test build, so I want to know more aobut that. If the game crashes for you, LET ME KNOW!
