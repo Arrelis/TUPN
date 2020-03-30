@@ -1,11 +1,6 @@
-Changelog for version "Development Beta 23 / Pending" :
+Changelog for version "Development Beta 23.1 / Pending" :
 
-- Fixed: "Lucid Lenny is visible with the monitor up"
-- Fixed: "Radeene materializes when you are viewing Arrelis"
-- Fixed: "Radeene materializes when you are clicking on MintEye options"
-- Fixed: "The challenge-specific Golden Shell/Arrelis or Take-Out warnings appeared randomly after enabling a challenge"
-- Fixed: "The Update System has a broken hour tracker"
-- Fixed: "School Boy is at AI 6 in Camera Madness 2"
-- Added Weekly Challenges
-- Added the "Author" variable to any challenge you create after this version which is hopefully going to be used in the future
-- Concern: DJ was experiencing crashes in a recent test build, so I want to know more aobut that. If the game crashes for you, LET ME KNOW!
+- Fixed "Custom challenges stopped working"
+- Fixed "Weekly challenges that had powerups disabled didn't work properly"
+
+- Concerns: I experienced the crash myself and I don't knwo if I will be able to fix it right now, but it only happened to me once. Also, I don't know how reliable disabling powerups for weekly challenges is at the moment.
