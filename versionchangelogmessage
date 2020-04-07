@@ -1,6 +1,22 @@
-Changelog for version "Development Beta 23.1 / Pending" :
+ Changelog:
+ 
+ - Fixed weekly challenges being able to break powerups
+ - Fixed "The Fan has a gender"
+ - Fixed "The Fan can go away unexpectedly"
+ - Fixed "Arrelis plays the flashlight noise when flipping down"
+ - Fixed some layering errors with the mask characters
+ - Fixed being able to click only once on Becky
+ - Fixed some other bugs that I may have forgotten about
+ - Removed the flashlight noise that plays when you turn off the flashlight
+ - Changed some graphics regarding the desk
+ - Removed smoothing when adjust character difficulty
+   Custom Office Changes:
 
-- Fixed "Custom challenges stopped working"
-- Fixed "Weekly challenges that had powerups disabled didn't work properly"
-
-- Concerns: I experienced the crash myself and I don't knwo if I will be able to fix it right now, but it only happened to me once. Also, I don't know how reliable disabling powerups for weekly challenges is at the moment.
+ - Added the ability to choose which prop texture you want to use from the game itself
+ - Added the ability to customize where Jack and the random pipe spawn
+ - Added incremental scale; hold SHIFT for 2 decimal places; hold CTRL for 1 decimal place
+ - Optimized loading times
+ - Increased the prop limit to 100
+ - Fixed being able to go over the prop limit
+ - Added a proper Empty Office
+ - Removed the prop parameters display
