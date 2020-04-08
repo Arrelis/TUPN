@@ -1,22 +1,5 @@
- Changelog:
- 
- - Fixed weekly challenges being able to break powerups
- - Fixed "The Fan has a gender"
- - Fixed "The Fan can go away unexpectedly"
- - Fixed "Arrelis plays the flashlight noise when flipping down"
- - Fixed some layering errors with the mask characters
- - Fixed being able to click only once on Becky
- - Fixed some other bugs that I may have forgotten about
- - Removed the flashlight noise that plays when you turn off the flashlight
- - Changed some graphics regarding the desk
- - Removed smoothing when adjusting character difficulty
-   Custom Office Changes:
+Changelog:
 
- - Added the ability to choose which prop texture you want to use from the game itself
- - Added the ability to customize where Jack and the random pipe spawn
- - Added incremental scale; hold SHIFT for 2 decimal places; hold CTRL for 1 decimal place
- - Optimized loading times
- - Increased the prop limit to 100
- - Fixed being able to go over the prop limit
- - Added a proper Empty Office
- - Removed the prop parameters display
+ - Changed the graphics for the shock panel
+ - Fixed some bugs
+ - Nerfed the basement halls
