@@ -1,4 +1,5 @@
-Changelog:
+Changelog for 1.1.0-b:
 
-- Changed graphics for Mussy and Adventure Poundinger Shell
-- Fixed a lot of bugs
+- Fixed a bug where the Take-Out won't make the Water Pipe System animatronics reset, even if they will stop moving
+- Fixed a bug where you couldn't access the old save system if there was a save file selected
+- Fixed a bug where the Take-Out would remove Emily from the night, but you still had to deal with her one last time
