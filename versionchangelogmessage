@@ -1,5 +1,7 @@
-Changelog for 1.1.0-b:
+Changelog for 1.1.1:
 
-- Fixed a bug where the Take-Out won't make the Water Pipe System animatronics reset, even if they will stop moving
-- Fixed a bug where you couldn't access the old save system if there was a save file selected
-- Fixed a bug where the Take-Out would remove Emily from the night, but you still had to deal with her one last time
+- Added minimum and maximum difficulty settings for the AI randomizer
+- Added an option that limits the quick AI settings to the current page
+- Changed the save system to a better one (let's be honest the older one was total crap)
+- Fixed a bunch of bugs from 1.1.0-b
+- Removed potential main menu lag
