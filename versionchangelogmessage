@@ -1,7 +1,3 @@
-Changelog for 1.1.1:
+Changelog for 1.1.1-a:
 
-- Added minimum and maximum difficulty settings for the AI randomizer
-- Added an option that limits the quick AI settings to the current page
-- Changed the save system to a better one (let's be honest the older one was total crap)
-- Fixed a bunch of bugs from 1.1.0-b
-- Removed potential main menu lag
+- Fixed bugs & changed minor things.
