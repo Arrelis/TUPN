@@ -1,3 +1,5 @@
-Changelog for 1.1.1-a:
+Changelog for 1.1.2:
 
-- Fixed bugs & changed minor things.
+- Added a new intro (it apparently inflates the file size)
+- Changed how you change character difficulty, making it so you don't need a scrollwheel.
+- Made some changes to the main menu
